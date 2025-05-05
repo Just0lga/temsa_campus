@@ -1,16 +1,3 @@
-# temsa_campus
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# TEMSA-Campus-App
+During my internship at TEMSA, I prepared the email confirmation feature for the company’s internal campus mobile application. I integrated this functionality by transforming a pre-developed backend and Figma design into a fully functional and presentable mobile interface using Flutter, Swagger, and Postman. The backend API was already provided and private, so I cannot share the code publicly. However, I was responsible for connecting the API, ensuring smooth integration, and delivering a UI that was both presentation-ready and suitable for real-world use.
+![temsa campus](https://github.com/user-attachments/assets/6c706b05-3c03-4fc2-85b0-945f7cd1749f)
